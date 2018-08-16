@@ -34,6 +34,8 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'idanarye/breeze.vim'
 Plugin 'gregsexton/matchtag'
+Plugin 'townk/vim-autoclose'
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
